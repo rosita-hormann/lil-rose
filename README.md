@@ -9,7 +9,7 @@
  
 
 
-<a href="https://www.linkedin.com/in/rosita-hormann-lobos-a175b0150/">
+<a href="https://www.linkedin.com/in/rosita-hormann/">
   <img align="left" alt="my linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
