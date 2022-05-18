@@ -23,19 +23,23 @@
 
 #### Tools and Languages:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/2560px-Cassandra_logo.svg.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code height="30"><img title="Linux" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img title="Git" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img title="SQL" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img title="Python" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img title="Docker" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img title="Kubernetes" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img title="Terraform" height="30" src="https://symbols.getvecta.com/stencil_97/45_terraform-icon.0fedccc574.svg"></code>
+<code><img title="Java" height="30" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
+<code><img title="Cassandra" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/2560px-Cassandra_logo.svg.png"></code>
+<code><img title="KairosDB" height="30" src="https://raw.githubusercontent.com/kairosdb/kairosdb/60f3ca8bb8335ff91c2fe7c8e6140c8098b2c313/src/docs/_static/favicon.png"></code>
+
+
 <br>
 
 #### Some facts about me:
 
 - :milky_way: I’m currently working at ALMA Observatory.
-- 🌱 I’m learning Flask, Nodejs, Typescript and Angularjs, among other things.
+- 🌱 I’m learning Flask, Node, Typescript and Angularjs, among other things.
 - 🔬 I’m looking for help with outreaching in Computing and Informatics.
-- 💬 Ask me about Python, Docker, Kubernetes and noSQL databases.
+- 💬 Ask me about Git, Linux, Python, SQLAlchemy, Docker, Kubernetes, Terraform, Cassandra database and KairosDB.
