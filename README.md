@@ -33,6 +33,8 @@
 <code><img title="Java" height="30" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
 <code><img title="Cassandra" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/2560px-Cassandra_logo.svg.png"></code>
 <code><img title="KairosDB" height="30" src="https://raw.githubusercontent.com/kairosdb/kairosdb/60f3ca8bb8335ff91c2fe7c8e6140c8098b2c313/src/docs/_static/favicon.png"></code>
+<code><img title="Typescript" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
+
 
 
 <br>
@@ -40,6 +42,6 @@
 #### Some facts about me:
 
 - :milky_way: I’m currently working at ALMA Observatory.
-- 🌱 I’m learning Flask, Node, Typescript and Angularjs, among other things.
+- 🌱 I’m learning Flask, Node, Angular and React, among other things.
 - 🔬 I’m looking for help with outreaching in Computing and Informatics.
-- 💬 Ask me about Git, Linux, Python, SQLAlchemy, Docker, Kubernetes, Terraform, Cassandra database and KairosDB.
+- 💬 Ask me about Git, Linux, Python, SQLAlchemy, Docker, Kubernetes, Terraform, Cassandra and KairosDB.
