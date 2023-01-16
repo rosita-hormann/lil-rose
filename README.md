@@ -7,13 +7,13 @@
   I'm a Software Engineer. Passionate about computing, programming and science.
  </p>
  
-
+<!--
 
 <a href="https://www.linkedin.com/in/rosita-hormann/">
   <img align="left" alt="my linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<!--
+
 ![](https://visitor-badge.glitch.me/badge?page_id=lil-rose.lil-rose)
 -->
 
@@ -44,6 +44,7 @@
 #### Some facts about me:
 
 - :milky_way: I’m currently working at ALMA Observatory.
-- 🌱 I’m learning Flask, Node, Angular and React, among other things.
-- 🔬 I’m looking for help with outreaching in Computing and Informatics.
-- 💬 Ask me about Git, Linux, Python, SQLAlchemy, Docker, Kubernetes, Terraform, Cassandra and KairosDB.
+- 🌱 I’m learning English (advanced course), ACS (ALMA Common Software), among other things.
+- 🔬 I like to read and learn about Science and Computing
+- :black_nib: I have some personal projects I feel passionate about, related to Art and Writing
+- 💬 Ask me about Git, Linux, Python, SQLAlchemy, Docker, Kubernetes, Terraform, Cassandra and KairosDB. Also about ACS (ALMA Common Software) although I am not an expert
