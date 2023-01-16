@@ -13,8 +13,9 @@
   <img align="left" alt="my linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<!--
 ![](https://visitor-badge.glitch.me/badge?page_id=lil-rose.lil-rose)
-
+-->
 
 - :incoming_envelope: Email: rosita.hormannlobos@gmail.com
 - :bird: Twitter: [@rosita_hormann](https://twitter.com/rosita_hormann)
