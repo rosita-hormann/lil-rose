@@ -18,7 +18,6 @@
 -->
 
 - :incoming_envelope: Email: rosita.hormannlobos@gmail.com
-- :bird: Twitter: [@rosita_hormann](https://twitter.com/rosita_hormann)
 - :black_nib: Codepen: [lil-rose's codepen](https://codepen.io/lil-rose)
 
 
