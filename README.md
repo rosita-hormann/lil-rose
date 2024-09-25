@@ -43,7 +43,7 @@
 #### Some facts about me:
 
 - :milky_way: I’m currently working at ALMA Observatory.
-- 🌱 I’m learning English (advanced course), ACS (ALMA Common Software), among other things.
+- 🌱 I’m learning English (as an everyday activity), ACS (ALMA Common Software), Kubernetes Development, among other things.
 - 🔬 I like to read and learn about Science and Computing
 - :black_nib: I have some personal projects I feel passionate about, related to Art and Writing
 - 💬 Ask me about Git, Linux, Python, SQLAlchemy, Docker, Kubernetes, Terraform, Cassandra and KairosDB. Also about ACS (ALMA Common Software) although I am not an expert
